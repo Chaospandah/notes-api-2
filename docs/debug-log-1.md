@@ -1,4 +1,4 @@
-# Debug Log #1 – [Short Title, e.g. "Broken /notes Route"]
+# Debug Log #1 – ["Broken /notes Route"]
 
 **Date:** 2025-11-25  
 **Project:** Notes API  
